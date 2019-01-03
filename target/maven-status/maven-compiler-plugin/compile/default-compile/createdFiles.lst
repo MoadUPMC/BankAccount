@@ -1,0 +1,5 @@
+com/businessbject/Account.class
+com/businessbject/TypeOperation.class
+com/businessbject/Operation.class
+com/boot/ApplicationRunner.class
+com/rest/MyAccountRest.class
